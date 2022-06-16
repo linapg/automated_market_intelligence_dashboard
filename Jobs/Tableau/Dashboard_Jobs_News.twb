@@ -3234,8 +3234,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='900' minheight='900' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='49' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='48' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='51' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='50' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='Jobs_Worldwide' w='82400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3320,8 +3320,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='16' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98476' id='15' param='vert' type-v2='layout-flow' w='99156' x='422' y='762' />
+            <zone h='100000' id='18' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98476' id='17' param='vert' type-v2='layout-flow' w='99156' x='422' y='762' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -3389,8 +3389,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='54' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97664' id='53' param='vert' type-v2='layout-flow' w='98672' x='664' y='1168'>
+            <zone h='100000' id='56' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97664' id='55' param='vert' type-v2='layout-flow' w='98672' x='664' y='1168'>
                 <zone fixed-size='280' h='97664' id='42' is-fixed='true' is-scaled='1' param='/Users/rebeccastolze/Downloads/MRO Competitor Dashboard.jpg' type-v2='bitmap' w='98672' x='664' y='1168'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />

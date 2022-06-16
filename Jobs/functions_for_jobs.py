@@ -231,15 +231,16 @@ def upload_competitor_db(jobs):
     from sql import engine
     for row in range(len(jobs)):
         try:
-            jobs.iloc[row:row+1, :10].to_sql(name='jobs',          # Name of DF table
-                                            con=engine,                     # Engine or connection
-                                            if_exists='append',             # Just add new values in existing table
-                                            schema=schema,                  # Use schema that was defined earlier in .sql
-                                            index=False,                    # Write DataFrame index as a column
-                                            chunksize=1,                    # Specify the number of rows in each batch to be written at a time
-                                            method='multi')                 # Pass multiple values in a single INSERT clause
+            jobs.iloc[row:row+1, :].to_sql(name='jobs',         # Name of DataFrame
+                                            con=engine,         # Engine or connection
+                                            if_exists='append', # Just add new values in existing table
+                                            schema=schema,      # Use schema that was defined earlier in .sql
+                                            index=False,        # Write DataFrame index as a column
+                                            chunksize=1,        # Specify the number of rows in each batch to be written at a time
+                                            method='multi')     # Pass multiple values in a single INSERT clause
             print(f"row {row} of jobs was inserted successfully.")
         except:
             print(f"row {row} of jobs was ignored.")
             continue
+        
 ####################################
