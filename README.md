@@ -1,1 +1,2 @@
-# mro_competitor_dashboard
+# aguila-capstone
+Capstone Project - Data Analytics 
