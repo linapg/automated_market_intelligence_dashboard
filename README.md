@@ -1,6 +1,6 @@
 # Automated Market Intelligence Dashboard
 
 
-## Capstone Project - Data Analytics 
+An automated approach to improve Buisness Intelligence from MRO Provider (Maintenance Repair & Overhaul) by combining data from several sources.   
 
 
