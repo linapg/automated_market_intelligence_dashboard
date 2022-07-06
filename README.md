@@ -1,7 +1,6 @@
 # Automated Market Intelligence Dashboard
 
-
-An automated approach to improve Buisness Intelligence from MRO Provider (Maintenance Repair & Overhaul) by combining data from several sources. To understand customer demands and requirements an access to up-to-date market-insights is essential. By utilizing flight data, job ads and news as well the dashboard provides this insight.
+This project is an automated approach to improve Buisness Intelligence from MRO Providers (Maintenance Repair & Overhaul in the aviation industry) by combining data from several sources. Up-to-date market-insights are essential to understand customer requirements  and by using flight data, job ads, and news, our dashboards provide these insights.
 
 <img src="Dashboard.png" width="600" />
 
