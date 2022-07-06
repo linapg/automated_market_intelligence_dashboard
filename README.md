@@ -2,7 +2,10 @@
 
 This project is an automated approach to improve Buisness Intelligence from MRO Providers (Maintenance Repair & Overhaul in the aviation industry) by combining data from several sources. Up-to-date market-insights are essential to understand customer requirements  and by using flight data, job ads, and news, our dashboards provide these insights.
 
-<img src="Dashboard_Jobs_rst.png" width="400" />   <img src="Dashboard_News_rst_2.png" width="400" />
+
+[![](Dashboard_Jobs_rst_2.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)  [![](Dashboard_News_rst_3.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)
+
+
 
 ## Data Sources
 - The **job data** is retrieved from the LinkedIn API in RapidAPI. Click [here](https://rapidapi.com/jaypat87/api/linkedin-jobs-search/) for more information.  
