@@ -3,7 +3,7 @@
 This project is an automated approach to improve Buisness Intelligence from MRO Providers (Maintenance Repair & Overhaul in the aviation industry) by combining data from several sources. Up-to-date market-insights are essential to understand customer requirements  and by using flight data, job ads, and news, our dashboards provide these insights.
 
 
-[![](Dashboard_Jobs_rst_2.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)  [![](Dashboard_News_rst_3.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)
+[![](Dashboard_Jobs_small.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)  [![](Dashboard_News_small.png)](https://public.tableau.com/app/profile/rebecca.s.8585/viz/MRO_Market_Insights/Jobs_Dashboard)
 
 
 
